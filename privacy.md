@@ -71,5 +71,4 @@ Podemos actualizar esta Política de Privacidad en cualquier momento. Los cambio
 
 Para consultas sobre privacidad:
 
-- Servidor de soporte: [tu enlace de Discord]
-- Correo: [tu correo electrónico]
+- Servidor de soporte: https://discord.gg/yXWedmuSxE
